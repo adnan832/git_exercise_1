@@ -1,3 +1,5 @@
 apple
 ananas
 mango
+orange
+avacado
